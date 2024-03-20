@@ -1,4 +1,4 @@
-public enum Door{
+public enum Door {
 	RED,
 	GREEN,
 	BLUE,
